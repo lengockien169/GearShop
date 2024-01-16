@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="LeNgocKien_19T1021111_Java_ThiHK">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                
+        <property name="java-output-path" value="/LeNgocKien_19T1021111_Java_ThiHK/build/classes"/>
+        <property name="context-root" value="LeNgocKien_19T1021111_Java_ThiHK"/>
+            
+    </wb-module>
+    
+</project-modules>
